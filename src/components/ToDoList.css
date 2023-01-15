@@ -1,0 +1,11 @@
+.todolist{
+    background-image: url('https://img.freepik.com/free-photo/ripped-piece-white-paper_1194-7546.jpg?w=2000');
+    width: 50%;
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
